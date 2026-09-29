@@ -1,0 +1,15 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+node_modules/
+build/
+.gradle/
+.idea/
+.vs/
+bin/
+obj/
+__pycache__/
+*.pyc
+*.apk
+*.aab
